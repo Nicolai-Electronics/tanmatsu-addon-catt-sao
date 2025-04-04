@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50.0mm"
+   height="50.0mm"
+   viewBox="0 0 50.0 50.0"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="design.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.73139029"
+     inkscape:cx="397.18876"
+     inkscape:cy="181.16182"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g1">
+    <rect
+       x="0"
+       y="0"
+       width="50.0"
+       height="50.0"
+       style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+       id="rect1" />
+  </g>
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="g2">
+    <path
+       id="rect9"
+       style="fill:none;stroke:#ff0000;stroke-width:0.2"
+       d="m 2.1,0.1 h 5.75 5.75 5.75 5.75 5.75 5.75 5.75 5.75 c 0.1385,0 0.273625,0.0139375 0.404055,0.0404922 0.130429,0.0265547 0.256164,0.0657266 0.375883,0.11619531 0.119718,0.0504687 0.233421,0.11223437 0.339789,0.18397656 0.106367,0.0717422 0.205398,0.15346094 0.295773,0.24383594 0.09037,0.090375 0.172094,0.18940625 0.243836,0.29577344 0.07174,0.10636716 0.133508,0.22007036 0.183976,0.33978906 0.05047,0.1197187 0.08964,0.2454531 0.116196,0.3758828 C 50.086062,1.826375 50.1,1.9615 50.1,2.1 v 5.75 5.75 5.75 5.75 5.75 5.75 5.75 5.75 c 0,0.1385 -0.01394,0.273625 -0.04049,0.404055 -0.02656,0.130429 -0.06573,0.256164 -0.116196,0.375883 -0.05047,0.119718 -0.112234,0.233421 -0.183976,0.339789 -0.07174,0.106367 -0.153461,0.205398 -0.243836,0.295773 -0.09038,0.09037 -0.189406,0.172094 -0.295773,0.243836 -0.106368,0.07174 -0.220071,0.133508 -0.339789,0.183976 -0.119719,0.05047 -0.245454,0.08964 -0.375883,0.116196 C 48.373625,50.086062 48.2385,50.1 48.1,50.1 H 42.35 36.6 30.85 25.1 19.35 13.6 7.85 2.1 C 1.9615,50.1 1.826375,50.086062 1.6959453,50.059508 1.5655156,50.032953 1.4397813,49.993781 1.3200625,49.943312 1.2003438,49.892844 1.0866406,49.831078 0.98027344,49.759336 0.87390625,49.687594 0.774875,49.605875 0.6845,49.5155 0.594125,49.425125 0.51240625,49.326094 0.44066406,49.219727 0.36892187,49.113359 0.30715625,48.999656 0.2566875,48.879938 0.20621875,48.760219 0.16704687,48.634484 0.14049219,48.504055 0.1139375,48.373625 0.1,48.2385 0.1,48.1 V 42.35 36.6 30.85 25.1 19.35 13.6 7.85 2.1 C 0.1,1.9615 0.1139375,1.826375 0.14049219,1.6959453 0.16704688,1.5655156 0.20621875,1.4397813 0.2566875,1.3200625 0.30715625,1.2003438 0.36892188,1.0866406 0.44066406,0.98027344 0.51240625,0.87390625 0.594125,0.774875 0.6845,0.6845 0.774875,0.594125 0.87390625,0.51240625 0.98027344,0.44066406 1.0866406,0.36892188 1.2003438,0.30715625 1.3200625,0.2566875 1.4397813,0.20621875 1.5655156,0.16704688 1.6959453,0.14049219 1.826375,0.1139375 1.9615,0.1 2.1,0.1 Z"
+       sodipodi:nodetypes="scccccccssssssssscccccccssssssssscccccccssssssssscccccccsssssssss" />
+  </g>
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g3" />
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g4" />
+  <g
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g5" />
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g6" />
+  <g
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g7" />
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g8" />
+  <g
+     inkscape:label="Dwgs.User"
+     inkscape:groupmode="layer"
+     id="g9" />
+</svg>
